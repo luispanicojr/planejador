@@ -1,0 +1,21 @@
+{
+  "short_name": "NutriCalc",
+  "name": "Calculadora Nutricional Inteligente",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/81B29A/FFFFFF?text=NC",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/81B29A/FFFFFF?text=NC",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#81B29A",
+  "background_color": "#F8F7F4"
+}
+
